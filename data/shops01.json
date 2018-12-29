@@ -1,0 +1,384 @@
+[
+  {
+    "name": "郑双全餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 20,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "蔡二娃餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 10,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "郑双全餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 20,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "蔡二娃餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 10,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "郑双全餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 20,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "蔡二娃餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 10,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "郑双全餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 20,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "蔡二娃餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 10,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "郑双全餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 20,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "蔡二娃餐饮服务",
+    "address": "四川省资阳市安岳县华严镇",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "餐饮一条龙",
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，春节期间请提前下单，谢谢",
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "image_path": "16018a5c08533.jpeg",
+    "distance": "2120.1公里",
+    "float_minimum_order_amount": 10,
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "乡团推荐"
+    },
+    "activities": [],
+    "__v": 0
+  }
+
+
+]
